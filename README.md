@@ -7,8 +7,6 @@ Based in sunny Pattaya City, Thailand 🇹🇭, I'm passionate about the interse
 * **💻 Development:** Primarily working with Python, PHP, and JavaScript. Always exploring ways to build efficient and useful tools.
 * **🔍 SEO & Analytics:** Diving deep into Technical SEO, GA4, GTM, and understanding search engine algorithms. I enjoy turning data into actionable insights. Check out my thoughts at [max.nardit.com](https://max.nardit.com)!
 * **🤖 Automation & LLMs:** Automating workflows and experimenting with Large Language Models to streamline processes and unlock new possibilities.
-* **🌱 Currently Exploring:** [Mention something specific you're learning or working on, e.g., Advanced prompt engineering, a specific Python library, the latest Google Core Update implications]
-
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -23,9 +21,10 @@ Based in sunny Pattaya City, Thailand 🇹🇭, I'm passionate about the interse
 
 ### 📊 My GitHub Stats
 
-[![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/[Your GitHub Username])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/[Your GitHub Username])
+[![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnardit&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/mnardit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnardit&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/mnardit)
+
 ---
 
 * 🔗 Find more of my work and writing at [**max.nardit.com**](https://max.nardit.com)
-* 📫 How to reach me: [Add preferred contact method, e.g., LinkedIn link, or leave it as directing to the website]
+* 📫 How to reach me: [**Linkeding**](https://www.linkedin.com/in/maxnardit/)
