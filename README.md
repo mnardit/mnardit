@@ -27,4 +27,4 @@ Based in sunny Thailand 🇹🇭, I'm passionate about the intersection of techn
 ---
 
 * 🔗 Find more of my work and writing at [**max.nardit.com**](https://max.nardit.com)
-* 📫 How to reach me: [**Linkeding**](https://www.linkedin.com/in/maxnardit/)
+* 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/maxnardit/)
