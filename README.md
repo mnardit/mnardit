@@ -2,7 +2,7 @@
 
 <a href="https://max.nardit.com" target="_blank"><img align="right" alt="Link to max.nardit.com" width="100" src="https://img.shields.io/badge/-max.nardit.com-AF61E1?style=for-the-badge&logo=ghost&logoColor=white" /></a>
 
-Based in sunny Pattaya City, Thailand 🇹🇭, I'm passionate about the intersection of technology, marketing, and automation. My main focus areas are:
+Based in sunny Thailand 🇹🇭, I'm passionate about the intersection of technology, marketing, and automation. My main focus areas are:
 
 * **💻 Development:** Primarily working with Python, PHP, and JavaScript. Always exploring ways to build efficient and useful tools.
 * **🔍 SEO & Analytics:** Diving deep into Technical SEO, GA4, GTM, and understanding search engine algorithms. I enjoy turning data into actionable insights. Check out my thoughts at [max.nardit.com](https://max.nardit.com)!
