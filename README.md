@@ -6,7 +6,7 @@ By day I manage analytics, tracking, and client dashboards. By night I build AI 
 
 ### What I'm building
 
-**[agent-memory](https://github.com/mnardit/agent-memory)** — persistent, scoped memory for AI coding agents. SQLite-backed knowledge graph with scope hierarchy, AI-generated briefings, and a drop-in MCP server. Born from running 30 agents in production and getting tired of them forgetting everything between sessions.
+**[agent-recall](https://github.com/mnardit/agent-recall)** — persistent, scoped memory for AI coding agents. SQLite-backed knowledge graph with scope hierarchy, AI-generated briefings, and a drop-in MCP server. Works with Claude Code, Cursor, Windsurf, Cline. `pip install agent-recall` — born from running 30 agents in production and getting tired of them forgetting everything between sessions.
 
 **[Beetroot](https://github.com/mnardit/beetroot-releases)** — clipboard manager for Windows with AI-powered text transforms, OCR, and fuzzy search. Built with Tauri v2 (Rust) + React 19. My daily driver.
 
