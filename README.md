@@ -1,3 +1,5 @@
+# Hey, I'm Max Nardit
+
 Systems engineer exploring how software changes when reasoning becomes part of execution.
 
 Interested in:
