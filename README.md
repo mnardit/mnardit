@@ -12,8 +12,8 @@ Currently exploring:
 - MCP ecosystems
 - interfaces between humans, agents, and software environments
 
-Day work since 2015: at Bobdo, a digital marketing agency in Austria. Building agentic systems that handle marketing operations across multiple clients — campaign monitoring on Google and Meta ads, SERP and SEO audits, analytics across GA4 / GSC / ad platforms, report and presentation generation. Long-running agents that do the work continuously, not on-demand consulting.
+Day work since 2015: at Bobdo, a digital marketing agency in Austria. Building agentic systems that handle marketing operations across multiple clients - campaign monitoring on Google and Meta ads, SERP and SEO audits, analytics across GA4 / GSC / ad platforms, report and presentation generation. Long-running agents that do the work continuously, not on-demand consulting.
 
-Projects on this profile are separate from that — built and maintained in my own time, primarily because I use them.
+Projects on this profile are separate from that - built and maintained in my own time, primarily because I use them.
 
 More: [max.nardit.com](https://max.nardit.com)
